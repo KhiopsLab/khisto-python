@@ -21,4 +21,3 @@ First stable release.
 - Public API documentation and usage examples.
 
 [1.0.1]: https://github.com/KhiopsML/khisto-python/compare/v1.0.0...v1.0.1
-[1.0.0]: https://github.com/KhiopsML/khisto-python/compare/v0.5.0-beta...v1.0.0
