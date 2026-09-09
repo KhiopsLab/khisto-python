@@ -74,6 +74,23 @@ Get started
 
       A runnable notebook tour covering all features.
 
+.. grid:: 1 1 2 2
+   :gutter: 3
+   :class-container: sd-mt-3
+
+   .. grid-item-card:: :octicon:`law;1.5em` Counts or density?
+      :link: counts_vs_density
+      :link-type: doc
+
+      Learn how bin width changes the meaning of bar height and area.
+
+   .. grid-item-card:: :octicon:`info;1.5em` Histograms - Khiops
+      :link: https://khiops.org/learn/histograms/
+      :link-type: url
+      :class-card: histogram-guide-card
+
+      Go further, from the simplest histogram to the most complex.
+
 .. toctree::
    :maxdepth: 2
    :caption: API Reference
@@ -89,3 +106,4 @@ Get started
    :hidden:
 
    Demo <demo>
+   Counts, density, and bin widths <counts_vs_density>

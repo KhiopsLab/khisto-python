@@ -80,7 +80,7 @@ html_theme_options = {
         "color-highlighted-background": "#FFD200",
         "color-admonition-title--note": "#FF7900",
         "color-admonition-title-background--note": "#FFF0E2",
-        "font-stack": "Helvetica Neue, Helvetica, sans-serif",
+        "font-stack": "Helvetica Neue, Helvetica, Arial, sans-serif",
     },
     "dark_css_variables": {
         "color-brand-primary": "#FF7900",
@@ -90,7 +90,7 @@ html_theme_options = {
         "color-highlighted-background": "#FFD200",
         "color-admonition-title--note": "#FF7900",
         "color-admonition-title-background--note": "#CC6100",
-        "font-stack": "Helvetica Neue, Helvetica, sans-serif",
+        "font-stack": "Helvetica Neue, Helvetica, Arial, sans-serif",
     },
     # Sets the Github Icon (the SVG is embedded, copied from furo's repo)
     "footer_icons": [
