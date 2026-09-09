@@ -54,6 +54,11 @@ plt.show()
 
 ## Development
 
+On Windows, install [Visual Studio Build Tools 2022](https://visualstudio.microsoft.com/visual-cpp-build-tools/)
+with the **Desktop development with C++** workload. Then run the commands below
+from an **x64 Native Tools Command Prompt for VS 2022** and verify that the
+compiler is available with `where cl`.
+
 ```bash
 # Clone repository
 git clone https://github.com/KhiopsML/khisto-python.git
