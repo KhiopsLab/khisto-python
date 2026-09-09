@@ -14,7 +14,7 @@ Documentation is available at **[khiopsml.github.io/khisto-python](https://khiop
 
 | Standard Gaussian | Heavy-tailed Pareto |
 | --- | --- |
-| ![Adaptive Gaussian histogram](docs/images/gaussian-quick-start.png) | ![Adaptive Pareto histogram](docs/images/pareto-quick-start.png) |
+| ![Adaptive Gaussian histogram](https://khiopsml.github.io/khisto-python/_images/gaussian-quick-start.png) | ![Adaptive Pareto histogram](https://khiopsml.github.io/khisto-python/_images/pareto-quick-start.png) |
 
 ## Installation
 
