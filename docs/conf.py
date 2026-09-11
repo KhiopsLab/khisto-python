@@ -72,6 +72,9 @@ exclude_patterns = ['_templates', '_build', 'Thumbs.db', '.DS_Store', '**.ipynb_
 
 html_theme = 'furo'
 html_theme_options = {
+    "source_repository": "https://github.com/KhiopsML/khisto-python/",
+    "source_branch": "main",
+    "source_directory": "docs/",
     "light_css_variables": {
         "color-brand-primary": "#FF7900",
         "color-brand-content": "#F16E00",
